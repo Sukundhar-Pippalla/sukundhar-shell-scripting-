@@ -1,0 +1,12 @@
+#!/bin/bash
+devops
+create ec2 
+create s3
+create iam user
+cevops tools 
+maven
+terraform
+ansi
+git 
+github
+bitbucket
