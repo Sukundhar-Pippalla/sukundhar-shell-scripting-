@@ -3,10 +3,14 @@ devops
 create ec2 
 create s3
 create iam user
-cevops tools 
+devops tools 
 maven
+zeera
+jenkins
+kubernetes
 terraform
 ansi
 git 
 github
+gitlab
 bitbucket
